@@ -11,7 +11,6 @@
   inputs.src-gifenc-master.ref   = "refs/heads/master";
   inputs.src-gifenc-master.owner = "ftsf";
   inputs.src-gifenc-master.repo  = "gifenc";
-  inputs.src-gifenc-master.dir   = "";
   inputs.src-gifenc-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

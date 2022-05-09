@@ -7,37 +7,8 @@
   "license": "Public Domain",
   "web": "https://github.com/ftsf/gifenc",
   "refs": [
-    "refs/heads/master",
+    "fatal: unable to access 'https://github.com/ftsf/gifenc/': Could not resolve host: github.com",
     ""
   ],
-  "heads": [
-    {
-      "name": "gifenc",
-      "version": "0.1.1",
-      "author": "Jez Kabanov",
-      "desc": "Gif Encoder",
-      "license": "Public Domain",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.16.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.16.0"
-          }
-        }
-      ],
-      "bin": [],
-      "binDir": "",
-      "srcDir": "src",
-      "backend": "c",
-      "ref": "refs/heads/master"
-    }
-  ]
+  "heads": []
 }

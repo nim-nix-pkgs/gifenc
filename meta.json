@@ -7,7 +7,7 @@
   "license": "Public Domain",
   "web": "https://github.com/ftsf/gifenc",
   "refs": [
-    "fatal: unable to access 'https://github.com/ftsf/gifenc/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/ftsf/gifenc/': Failed to connect to github.com port 443 after 129195 ms: Connection timed out",
     ""
   ],
   "heads": []

@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652796997,
-        "narHash": "sha256-g74PcpgUoP8olV0KuaN9N57076PYv2b8bnEK666bACo=",
+        "lastModified": 1653689757,
+        "narHash": "sha256-SZF6u4hGmgamQ2aLRkPwMzfG7PbcpUxis2bicAQZJkc=",
         "owner": "nim-nix-pkgs",
         "repo": "gifenc",
-        "rev": "e385851dbda4dc6a4d20820d8415a9c8e78dd3be",
+        "rev": "719bea125603ddc4dfd5fac6340c2ffaf710182e",
         "type": "github"
       },
       "original": {
